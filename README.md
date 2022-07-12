@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Said B
+- 👀 I’m interested in becoming a Software Engineer
+- 🌱 I’m currently following the Launch School program
+- 💞️ I’m looking to collaborate on (nothing yet)
