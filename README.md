@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Said B
 - 👀 I’m interested in becoming a Software Engineer
-- 🌱 I’m currently following the Launch School program
+- 🌱 I’m currently following the App Academy and 1337 programs
 - 💞️ I’m looking to collaborate on (nothing yet)
